@@ -1,16 +1,30 @@
-### Hi there 👋,I'm zhe.
+﻿# pxuwei's Portfolio
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
+Welcome to my GitHub portfolio! Here you'll find some of my projects and contributions.
 
-![](https://github-readme-stats.vercel.app/api?username=pxuwei&show_icons=true&theme=transparent)
+<div align="center">
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/pxuwei/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![github contribution grid snake animation](https://raw.githubusercontent.com/pxuwei/pxuwei/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pxuwei/pxuwei/main/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-### My Skill Set
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pxuwei&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pxuwei&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=pxuwei&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=pxuwei&style=for-the-badge&color=orange">
+</div>
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Projects
 
+- [Password Generator](https://github.com/pxuwei/password-generator): Password Generator
+- [Getgrass proxy](https://github.com/pxuwei/getgrass): getgrass with proxy
+- [pixelversexyz-bot](https://github.com/pxuwei/pixelversexyz): pixelverse bot auto run
+
+## Contributions
+
+- [Dimension](https://github.com/dymensionxyz/rollapp-registry): Dimension
+- [Anoma-Shielded-Expedition](https://github.com/anoma/namada-shielded-expedition): namada SE
+
+## Contact
+
+You can reach me at [admin@pxuwei.tech](mailto:admin@pxuwei.tech).
